@@ -1,0 +1,29 @@
+.edit-person {
+  padding: 20px;  
+  background-color: #add8e6;
+  color: red;
+}
+ 
+
+.new-person {
+  padding: 20px;
+  background-color: #efefef;
+  color: red;
+}
+
+.show-person {
+  padding: 20px;  
+  background-color: #add8e6;
+  color: red;
+}
+
+p {
+    margin: -3px 0 10px;
+}
+
+h1 #header-style {
+    font-family: sans-serif !important;
+    font-weight: 800  !important;
+    line-height: 2.1 !important;
+    color: aquamarine !important;
+}
