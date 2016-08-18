@@ -1,3 +1,10 @@
+body {
+  background:url('/images/gamers.png');
+  font-family:'montserrat', arial;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
 .edit-person {
   padding: 20px;  
   background-color: #add8e6;
@@ -26,4 +33,19 @@ h1 #header-style {
     font-weight: 800  !important;
     line-height: 2.1 !important;
     color: aquamarine !important;
+}
+
+.background {
+  background:url('/images/gamers.jpg');
+  font-family:'montserrat', arial;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+#font {
+  font-size: 20px !important;
+}
+
+h4 {
+  color: red;
 }
